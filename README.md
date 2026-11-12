@@ -1,0 +1,2 @@
+#college info page
+A SIMPLE ACADEMIC PROJECT WITH HTML AND CSS 
